@@ -1,2 +1,2 @@
-# Learn-
+# Learn - math for AI
 记录学习人工智能的数学基础课程的进展和收获。
